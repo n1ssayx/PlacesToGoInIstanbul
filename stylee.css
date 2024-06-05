@@ -1,0 +1,77 @@
+body{
+    background :linear-gradient(to right, rgb(126, 173, 243), rgb(250, 248, 140)) ;
+}
+h1{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(255, 233, 111);
+}
+details{
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+img{
+    border-radius: 15px;
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    
+}
+h3{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(12, 28, 253);
+    margin-top: 50px;
+    
+}
+h2{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(12, 28, 253);
+}
+header{
+    border-radius: 20px;
+    background-color: rgb(46, 46, 250);
+    text-align: center;
+    width: auto;
+    height: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.35);
+    overflow: hidden;
+    position: relative;
+}
+.button-88 {
+    display: block;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    font-family: inherit;
+    font-weight: 500;
+    font-size: 16px;
+    padding: 0.7em 1.4em 0.7em 1.1em;
+    color: white;
+    background: #ad5389;
+    background: linear-gradient(0deg, rgb(250, 248, 140) 0%, rgb(20, 59, 167) 100%);
+    border: none;
+    box-shadow: 0 0.7em 1.5em -0.5em #1423a798;
+    letter-spacing: 0.05em;
+    border-radius: 20em;
+    cursor: pointer;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    margin-top: 12px;
+  }
+  
+  .button-88:hover {
+    box-shadow: 0 0.5em 1.5em -0.5em #1423a798;
+  }
+  
+  .button-88:active {
+    box-shadow: 0 0.3em 1em -0.5em #1423a798; }
